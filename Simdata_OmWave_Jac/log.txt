@@ -1,0 +1,536 @@
+
+Worm simulations with OpenMP
+  C/OpenMP version
+
+  Number of processors available = 24
+  Number of threads =              24
+Process 21 successfully started up.
+Process 3 successfully started up.
+Process 23 successfully started up.
+Process 10 successfully started up.
+Process 15 successfully started up.
+Process 14 successfully started up.
+Writing file: prams_Jac_L_SEG1.00.csv
+Writing file: prams_Jac_K_PE1.10.csv
+Writing file: prams_Jac_L_SEG0.93.csv
+Process 22 successfully started up.
+Process 20 successfully started up.
+Process 17 successfully started up.
+Read variable Read variable FILENAMEFILENAME
+
+Read variable DURATIONProcess 19 successfully started up.
+Process 9 successfully started up.
+Process 18 successfully started up.
+Writing file: prams_Jac_L_SEG0.99.csv
+Writing file: prams_Jac_K_PE1.08.csv
+Process 13 successfully started up.
+Writing file: prams_Jac_L_SEG1.08.csv
+Process 7 successfully started up.
+Process 0 successfully started up.
+Writing file: prams_Jac_L_SEG0.90.csv
+Process 12 successfully started up.
+Read variable Writing file: FILENAMEprams_Jac_L_SEG0.97.csv
+Process 16 successfully started up.
+Read variable FILENAME
+Read variable DURATIONProcess 11 successfully started up.
+Writing file: prams_Jac_L_SEG1.06.csv
+Writing file: prams_Jac_L_SEG1.05.csv
+Writing file: prams_Jac_L_SEG1.01.csv
+Read variable Read variable DURATIONProcess 4 successfully started up.
+Writing file: prams_Jac_L_SEG1.04.csv
+Writing file: prams_Jac_L_SEG1.10.csv
+Process 6 successfully started up.
+
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTORRead variable FILENAME
+
+Read variable K_PERead variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTORRead variable Process 2 successfully started up.
+Read variable 
+FILENAMERead variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+
+Read variable NMJ_B_TEND
+Writing file: Read variable Writing file: prams_Jac_L_SEG0.92.csv
+prams_Jac_K_PE1.09.csvRead variable Process 5 successfully started up.
+Writing file: 
+Read variable prams_Jac_L_SEG1.03.csv
+Process 8 successfully started up.
+Writing file: prams_Jac_L_SEG1.02.csv
+Read variable FILENAME
+Read variable DURATIONRead variable L_SEG
+FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPERead variable 
+Read variable NMJ_B_TSTARTSR_B_TSTART
+
+Read variable FILENAMEProcess 1 successfully started up.
+FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPEWriting file: 
+Read variable NMJ_B_TSTARTprams_Jac_L_SEG1.09.csvWriting file: 
+
+prams_Jac_L_SEG0.96.csvRead variable 
+Writing file: prams_Jac_L_SEG0.98.csv
+Writing file: prams_Jac_L_SEG0.94.csv
+
+
+
+FILENAME
+Read variable 
+Read variable NMJ_B_TENDRead variable Writing file: SR_B_TSTARTRead variable 
+Read variable DURATION
+Read variable DURATION
+Read variable NMJ_B_SLOPEWriting file: prams_Jac_L_SEG0.91.csv
+Read variable FILENAMEFILENAME
+
+Read variable Read variable DURATION
+Read variable SR_B_TSTARTWriting file: 
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable Read variable SR_B_TEND
+NMJ_B_SLOPERead variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable L_SEG
+
+
+FILENAME
+Read variable Read variable DURATIONSR_B_TEND
+Read variable SR_B_TSTART
+NMJ_B_SLOPE
+
+Read variable NMJ_WEIGHT_B_FACTORRead variable SR_B_TSTART
+Read variable SR_B_TEND
+
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTORprams_Jac_L_SEG1.07.csv
+
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+DURATIONRead variable 
+Read variable L_SEG
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable NMJ_WEIGHT_B_FACTORRead variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPERead variable 
+SR_B_TSTARTRead variable NMJ_WEIGHT_B_FACTORRead variable NMJ_WEIGHT_B_FACTOR
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable L_SEG
+Read variable L_SEG
+prams_Jac_L_SEG0.95.csv
+
+
+Read variable L_SEG
+
+FILENAME
+
+
+Read variable 
+SR_B_TENDRead variable L_SEGRead variable L_SEGNMJ_B_TEND
+Read variable 
+Read variable NMJ_B_SLOPERead variable Read variable SR_B_TSTARTRead variable FILENAMERead variable DURATION
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable Read variable FILENAMESR_B_TENDRead variable 
+Read variable SR_B_TENDFILENAMERead variable Read variable FILENAMESR_B_TENDL_SEG
+
+
+Read variable SR_B_SLOPE
+FILENAME
+
+
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTARTSR_B_SLOPE
+Read variable NMJ_B_TENDRead variable NMJ_WEIGHT_B_FACTOR
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable Read variable SR_B_TSTARTNMJ_B_TEND
+
+Read variable NMJ_B_SLOPE
+
+Read variable NMJ_B_TSTARTRead variable Read variable 
+FILENAMERead variable NMJ_B_TENDRead variable DURATIONRead variable DURATION
+Read variable SR_B_TSTARTFILENAME
+
+
+
+Read variable SR_B_SLOPE
+
+Read variable NMJ_B_TSTARTRead variable 
+
+Read variable NMJ_B_TEND
+Read variable DURATION
+Read variable SR_B_TSTARTRead variable K_PE
+
+
+Read variable Read variable SR_B_TENDRead variable NMJ_B_SLOPE
+
+Read variable SR_B_TSTARTRead variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable L_SEG
+Read variable DURATION
+Read variable SR_B_TSTARTNMJ_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable Read variable 
+FILENAMENMJ_B_SLOPE
+
+Read variable DURATION
+
+
+
+Read variable Read variable SR_B_SLOPENMJ_WEIGHT_B_FACTOR
+Read variable NMJ_B_TSTARTRead variable 
+
+Read variable NMJ_B_TENDRead variable NMJ_B_SLOPERead variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable DURATIONRead variable SR_B_TENDRead variable SR_B_TENDNMJ_WEIGHT_B_FACTOR
+
+Read variable Read variable SR_B_TSTARTRead variable NMJ_B_TENDSR_B_SLOPE
+
+
+
+
+Read variable NMJ_B_SLOPESR_B_SLOPERead variable L_SEG
+Read variable NMJ_B_TSTARTRead variable NMJ_WEIGHT_B_FACTORRead variable NMJ_WEIGHT_B_FACTOR
+Read variable NMJ_B_TSTART
+
+Read variable NMJ_B_TEND
+Read variable SR_B_SLOPE
+
+
+Read variable NMJ_B_SLOPE
+
+Read variable NMJ_B_TENDRead variable SR_B_TENDRead variable NMJ_WEIGHT_B_FACTOR
+
+Read variable L_SEGRead variable L_SEG
+Read variable 
+NMJ_B_TSTART
+Read variable NMJ_B_TEND
+
+Read variable Read variable NMJ_B_SLOPESR_B_SLOPE
+
+
+Read variable NMJ_WEIGHT_B_FACTORRead variable SR_B_TSTART
+Read variable SR_B_TEND
+
+Read variable L_SEGRead variable NMJ_WEIGHT_B_FACTORRead variable L_SEG
+
+Read variable L_SEGRead variable NMJ_B_SLOPERead variable 
+
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable L_SEG
+
+Read variable L_SEGRead variable NMJ_B_TSTART
+Read variable 
+Read variable NMJ_B_TENDSR_B_SLOPE
+
+Read variable NMJ_B_SLOPE
+L_SEG
+
+Read variable NMJ_WEIGHT_B_FACTOR
+
+Read variable NMJ_B_TSTARTRead variable NMJ_B_SLOPE
+Read variable 
+NMJ_B_TENDRead variable NMJ_WEIGHT_B_FACTOR
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable L_SEG
+
+Read variable L_SEG
+
+Read variable K_PE
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.94.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.93.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.91.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.98.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Writing file: prams_Jac_K_PE0.96.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.95.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.01.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Writing file: prams_Jac_K_PE0.90.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.97.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.92.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.04.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE0.99.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.07.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.03.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.02.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Writing file: prams_Jac_K_PE1.00.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.05.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+Writing file: prams_Jac_K_PE1.06.csv
+Read variable FILENAME
+Read variable DURATION
+Read variable SR_B_TSTART
+Read variable SR_B_TEND
+Read variable SR_B_SLOPE
+Read variable NMJ_B_TSTART
+Read variable NMJ_B_TEND
+Read variable NMJ_B_SLOPE
+Read variable NMJ_WEIGHT_B_FACTOR
+Read variable K_PE
+Neuron states initialized.
+
+  Elapsed wall clock time = 1735.594108
