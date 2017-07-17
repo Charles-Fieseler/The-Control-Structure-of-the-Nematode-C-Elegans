@@ -22,7 +22,7 @@ For reproducing the paper plots:
 * [matlab2tikz](https://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz-matlab2tikz)
 
 
-,### Installing
+### Installing
 
 Note: my experience is with the full repository on Windows 10 64-bit through cygwin, as well as the simulations themselves on a Linux box.
 
