@@ -22,7 +22,7 @@ For reproducing the paper plots:
 * [matlab2tikz](https://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz-matlab2tikz)
 
 
-### Installing
+,### Installing
 
 Note: my experience is with the full repository on Windows 10 64-bit through cygwin, as well as the simulations themselves on a Linux box.
 
@@ -56,7 +56,8 @@ These can be directly installed if you have a mathworks account.
         * If you want to reproduce the data sets included using the included run\_trials\_parallel\_\*.cpp files, this will almost certaintly take DAYS OF COMPUTING TIME.
     * The current code writes all the .csv files to the same folder as "program"
     * I moved them to a folder labeled "Simdata\_\something\_descriptive"; hereafter referred to as FOLDERNAME
-6. Move to MATLAB, cd() to the "MatlabSupport" folder, and type 'WormMetaDataObj('../FOLDERNAME')'
+6. Move to MATLAB, cd() to the "MatlabSupport" folder, and type 'WormMetaDataObj('../FOLDERNAME','independentVariable')'
+    * e.g. WormMetaDataObj('../Simdata_N_SR_2nd','changeInAngle')
     * This object will try to visualize the metadata for all '.csv' files in the folder; this may take ~0.5s per data file
     * Depending on the files, options may be necessary for useful visualization; see the help for that file for more detailed explanation and more examples.
 7. Click on data points to see a video of the simulation data that produced it!
